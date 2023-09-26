@@ -1,4 +1,4 @@
-![image](https://github.com/Theoregons/web2/assets/54587655/cc1631f8-874a-4b6f-8a72-62b263caf37f)# web2
+# web2
 
 # Heading 
 ![Cuplikan layar 2023-09-26 105604](https://github.com/Theoregons/web2/assets/54587655/040359fe-99c7-49c7-b729-43c74d2a19dd)
